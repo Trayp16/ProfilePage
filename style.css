@@ -1,0 +1,90 @@
+body { 
+font-family: "Libre Baskerville", serif; 
+font-weight: 400; 
+font-style: normal; 
+}
+
+body { 
+font-family: "Libre Baskerville", serif; 
+font-weight: 700; 
+font-style: normal; 
+} 
+
+body { 
+font-family: "Libre Baskerville", serif; 
+font-weight: 400; 
+font-style: italic; 
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    min-height: 100vh; 
+}
+
+img {
+    border-radius: 50%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+.social-links {
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.fa-brands .fa-instagram{
+  color: red;
+}
+
+h1 {
+
+  color: white; 
+  padding: 20px; 
+}
+
+div {
+    background-color: white;
+    width: 1000px;
+    
+  }
+
+  .profile {
+    border: 10px, solid, lightgrey;
+
+  }
+
+  header {
+    background-color: #333;
+    text-align: center;
+    padding: 20px;
+  }
+
+ footer {
+    background-color: #333;
+    text-align: center;
+    padding: 5px;
+    color: white;
+    padding: 5px;
+  }
+
+  a {
+    color: black;
+  }
